@@ -31,4 +31,29 @@ The classifier tends to work well with African and Chinese names and to a lesser
     <tr>
         <td>4000</td><td>500</td><td>African</td><td>0.9152</td><td>0.9845</td><td>0.9485</td>
     </tr>
+
+<table>
+    <tr>
+        <th>Train size</th>
+        <th>Test size</th>
+        <th>Race</th>
+        <th>Precision</th>
+        <th>Recall</th>
+        <th>F1</th>
+    </tr>
+    <tr>
+        <td>3000</td><td>1500</td><td>White</td><td>0.768</td><td>0.7459</td><td>0.7567</td>
+    <tr>
+        <td>3000</td><td>1500</td><td>Indian</td><td>0.8885</td><td>0.8234</td><td>0.8547</td>
+    </tr>
+    <tr>
+        <td>3000</td><td>1500</td><td>African</td><td>0.9136</td><td>0.9839</td><td>0.9474</td>
+    </tr>
+    <tr>
+        <td>3000</td><td>1500</td><td>Chinese</td><td>0.9629</td><td>0.3030</td><td>0.4609</td>
+    </tr>
+    <tr>
+        <td>3000</td><td>1500</td><td>Coloured</td><td>0.6438</td><td>0.7280</td><td>0.6833</td>
+    </tr>
+</table>
 </table>
