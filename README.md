@@ -17,18 +17,18 @@ The classifier tends to work well with African and Chinese names and to a lesser
         <th>F1</th>
     </tr>
     <tr>
-        <td>4000</td>,<td>500</td>,<td>White</td>,<td>0.7832</td>,<td>0.7666</td>,<td>0.7748</td>
+        <td>4000</td><td>500</td><td>White</td><td>0.7832</td><td>0.7666</td><td>0.7748</td>
     </tr>
     <tr>
-        <td>4000</td>,<td>500</td>,<td>Indian</td>,<td>0.9092</td>,<td>0.8173</td>,<td>0.8608</td>
+        <td>4000</td><td>500</td><td>Indian</td><td>0.9092</td><td>0.8173</td><td>0.8608</td>
     </tr>
     <tr>
-        <td>4000</td>,<td>500</td>,<td>Coloured</td>,<td>0.6556</td>,<td>0.7423</td>,<td>0.6962</td>
+        <td>4000</td><td>500</td><td>Coloured</td><td>0.6556</td><td>0.7423</td><td>0.6962</td>
     </tr>
     <tr>
-        <td>4000</td>,<td>500</td>,<td>Chinese</td>,<td>0</td>,<td>0.0</td>,<td>0</td>
+        <td>4000</td><td>500</td><td>Chinese</td><td>0</td><td>0.0</td><td>0</td>
     </tr>
     <tr>
-        <td>4000</td>,<td>500</td>,<td>African</td>,<td>0.9152</td>,<td>0.9845</td>,<td>0.9485</td>
+        <td>4000</td><td>500</td><td>African</td><td>0.9152</td><td>0.9845</td><td>0.9485</td>
     </tr>
 </table>
